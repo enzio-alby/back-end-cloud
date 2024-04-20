@@ -1,2 +1,2 @@
 # back-end-cloud
-Back-End(projeto de aplicativo web de academia Cloudfit.Online)
+Back-End (Projeto em Node.JS para api de Login Web de academia [Cloudfit.Online])
